@@ -1,94 +1,132 @@
+<div align="center">
+
 # Olá! 👋 Sou o Francemy Eduardo Sebastião
 
-**Software Engineer | Systems Analyst | Data Analytics**
+### Software Engineer • Systems Analyst • Backend & Cloud Developer
 
-📍 Luanda, Angola 🇦🇴 • 📱 +244 921 155 756
-✉️ [gelson23tg@gmail.com](mailto:gelson23tg@gmail.com) • 🔗 [LinkedIn](https://linkedin.com/in/francemy-sebastião) • 🐙 [GitHub](https://github.com/francemySebastiao)
+<p>
+  <strong>Java • Go • Python • TypeScript • Cloud Infrastructure • Distributed Systems</strong>
+</p>
 
----
+<p>
+  📍 Luanda, Angola 🇦🇴 • Open to Remote & International Opportunities
+</p>
 
-## 👨‍💻 Resumo Profissional
+<p>
+  <a href="mailto:francemy.sebastiao@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/francemy-sebastião">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/francemy">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://gitlab.com/gelson23tg">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+</p>
 
-I am a Software Engineer with experience building and maintaining multiple software systems and platforms. Throughout my career, I have worked extensively with real-world system failures, production incidents, and common challenges that occur during the software development lifecycle and server operations.
-
-My primary focus is on system reliability, secure validation processes, and deep debugging of complex systems in production environments in order to accelerate problem resolution and reduce operational impact. I have strong capabilities in identifying where systems fail, tracing execution paths, and analyzing how applications interact with infrastructure. Using both my technical knowledge and custom tools I have developed to assist my workflow, I can efficiently determine where systems are reading data, how they process it, and where failures originate.
-
----
-
-## 🛠️ Competências Técnicas
-
-**Linguagens:** `Java` | `Python` | `Go` | `JavaScript` | `TypeScript` | `SQL`
-**Frameworks & Libs:** `Spring Boot` | `Angular` | `Next.js` | `NestJS` | `Laravel` | `FastAPI` | `Node.js`
-**Infraestrutura & Ferramentas:** `Docker` | `Microsoft Azure` | `REST APIs` | `CI/CD`
-**Áreas de Foco:** `Data Analysis`
-
----
-
-## 💼 Experiência Profissional
-
-### 🏢 Okayula Tech — Analista de Sistemas
-📍 *Luanda, Angola*
-* Análise, manutenção e evolução de sistemas corporativos legados e modernos.
-* Desenvolvimento de APIs seguras e escaláveis com **Spring Boot** e **Spring Security**.
-* Modelação e otimização de bases de dados em **SQL Server**, garantindo integridade e desempenho.
-* Desenvolvimento de interfaces web com **Angular**, focadas na experiência do utilizador.
-* Gestão e monitorização de soluções em **Microsoft Azure**, incluindo deploys e pipelines **CI/CD**.
-* Contribuição para definição de arquitetura, boas práticas e padrões técnicos.
-
-### 🏢 TISTECH — Analista Desenvolvedor (Full Stack)
-📍 *Luanda, Angola*
-* Desenvolvimento de aplicações web e APIs RESTful utilizando **NestJS** e **Laravel**.
-* Criação de sistemas empresariais completos, desde levantamento de requisitos até produção.
-* Utilização de **Prisma ORM** para modelação e gestão eficiente de bases de dados.
-* Customização e integração de módulos **Odoo** para automação de processos empresariais.
-* Colaboração com equipas técnicas e stakeholders para entrega contínua de valor.
+</div>
 
 ---
 
-## 🚀 Projetos Destaque
+## 👨‍💻 About Me
 
-### ☁️ MUSTAINFO - Cloud Hosting Management Platform and Infrastructure Control System
-* **Descrição:** Designed and developed a core cloud hosting platform enabling users to manage cloud storage, hosting plans, and database services through a centralized system.
-* **Backend:** Built a scalable backend using **FastAPI** to handle provisioning, user management, service orchestration, and API integrations.
-* **Features:**
-  * Cloud storage (object/file storage) management.
-  * Hosting plan management (subscriptions, resource allocation).
-  * Database management capabilities (relational and non-relational).
-* **Arquitetura:** Focused on scalability, multi-tenancy, and performance, supporting multiple users and isolated environments.
-* **Interface:** Built an intuitive interface for infrastructure control without requiring deep DevOps knowledge.
-* **🔗 Link do Projeto:** [mustainfo.vercel.app](https://francys.mustainfo.org/)
+I am a Software Engineer focused on building scalable systems, cloud platforms, APIs, and enterprise solutions. 
+
+My experience combines backend engineering, distributed architectures, DevOps practices, QA analysis, and database engineering. I enjoy solving complex technical challenges involving performance, infrastructure, reliability, automation, and system scalability.
+
+I work mainly with backend technologies such as Java, Go, Python, and TypeScript, while also designing robust database and cloud architectures for production environments.
 
 ---
 
-## 🎓 Formação Académica
+## 🚀 Core Expertise
 
-**Universidade Católica de Angola**
-*Licenciatura em Engenharia Informática*
-*(Frequência até ao 4.º ano)*
-
----
-
-## 📜 Certificações e Especializações
-
-### 🏆 Google / Coursera
-* **Google Advanced Data Analytics Capstone** *(Foco: Análise Avançada de Dados, Machine Learning Basics)*
-* **Foundations: Data, Data, Everywhere** *(Foco: Fundamentos de Dados)*
-* **Analyze Data to Answer Questions** *(Foco: Tomada de Decisões Baseada em Dados)*
-* **Ask Questions to Make Data-Driven Decisions** *(Foco: Análise Estratégica)*
-* **Prepare Process Data from Dirty to Clean** *(Foco: Preparação e Limpeza de Dados)*
-* **Get Started with Python** *(Foco: Python aplicado a Dados)*
-* **Foundations of Project Management** *(Foco: Gestão de Projetos, Metodologias Ágeis, Scrum)*
-
-### 🏆 LinkedIn Learning
-* **Arquitetura de Nuvem com AWS – Formação Básica** *(Foco: Cloud Architecture, AWS)*
-* **Fundamentos de Go & Técnicas Avançadas de Java** *(Foco: Desenvolvimento Back-end)*
-* **Certificações Agile Scrum & Liderança em Tecnologia** *(Foco: Planeamento Ágil, Liderança Técnica)*
+* ⚙️ **Architecture:** Distributed Systems & Microservices, Backend Architecture & APIs
+* ☁️ **Infrastructure:** Cloud Infrastructure & DevOps, Docker & Container Orchestration, CI/CD Pipelines & Automation
+* 🗄️ **Data & Performance:** Database Engineering & Optimization, System Reliability & Performance, Multi-Database Platforms
+* 🧪 **Quality:** QA Analysis & Root Cause Investigation
+* 🏢 **Business:** Enterprise Software Development
 
 ---
 
-## 💡 Informações Adicionais
+## 🛠️ Tech Stack
 
-* 🌍 Disponível para trabalho remoto, híbrido ou internacional.
-* 🤝 Experiência comprovada em ambientes ágeis e equipas multiculturais.
-* 🧠 Forte interesse em IA aplicada, sistemas distribuídos e governança de dados.
-* 📦 Portfólio ativo com projetos open source e ferramentas de apoio ao desenvolvimento.
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Java` `Go` `Python` `TypeScript` `JavaScript` `SQL` `C#` |
+| **Backend** | `Spring Boot` `FastAPI` `NestJS` `Node.js` `Laravel` |
+| **Frontend** | `Next.js` `Angular` `React` |
+| **Databases** | `PostgreSQL` `SQL Server` `MySQL` `MariaDB` `Oracle` `MongoDB` `Redis` |
+| **DevOps & Cloud**| `Docker` `Azure` `AWS` `Linux` `CI/CD` `Nginx` `Traefik` |
+| **QA & Testing** | `Postman` `API Testing` `Exploratory Testing` `Mobile Testing` |
+
+---
+
+## 🌍 Featured Project
+
+### ☁️ [MUSTAINFO — Cloud Infrastructure Platform](https://francys.mustainfo.org/)
+*Cloud platform focused on storage services, database hosting, infrastructure orchestration, and centralized management.*
+
+**✨ Highlights:**
+* Multi-database management platform & Cloud storage integration
+* Infrastructure isolation with Automated backups & restore systems
+* Dockerized architecture & Multi-tenant backend
+* API-first architecture
+
+**🔧 Technologies:** `FastAPI` • `Docker` • `PostgreSQL` • `Redis` • `MinIO` • `Traefik`
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Systems Analyst & QA Engineer — Okayula Tech
+* Designed scalable APIs and distributed backend systems using **Spring Boot**.
+* Performed production debugging and root cause analysis.
+* Conducted QA validation and exploratory testing.
+* Improved **SQL Server** query performance and system stability.
+* Worked with **Azure** infrastructure and CI/CD pipelines.
+
+### 🏢 Full Stack Developer — TISTECH
+* Developed enterprise web systems using **Node.js** and **Laravel**.
+* Integrated ERP modules and business workflows.
+* Validated APIs and business rules using **Postman**.
+* Designed relational database structures and integrations.
+
+---
+
+## 🎓 Education
+
+* **Engenharia Informática** — *Universidade Católica de Angola*
+
+---
+
+## 📚 Certifications & Learning
+
+**🏆 Google**
+* Advanced Data Analytics | Agile Project Management | Data Foundations | Python for Data Analysis
+
+**🏆 LinkedIn Learning**
+* Golang Foundations | Cloud Architecture (AWS) | Leadership & Agile Practices
+
+---
+
+## 🧠 Areas of Interest
+
+`Cloud Computing` `Distributed Architectures` `Database Engines` `Artificial Intelligence` `System Performance` `DevOps Automation` `Infrastructure Engineering` `Software Architecture`
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francemy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francemy&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <h3><em>“Building scalable systems with performance, reliability and engineering precision.”</em></h3>
+</div>
