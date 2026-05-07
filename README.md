@@ -1,188 +1,152 @@
 <div align="center">
 
-# Olá! 👋 Sou o Francemy Eduardo Sebastião
+# Francemy Eduardo Sebastião
 
-### Software Engineer • Systems Analyst • Backend & Cloud Developer
+**Software Engineer · Systems Analyst · Backend & Cloud Developer**
 
-<p>
-  <strong>Java • Go • Python • TypeScript • Cloud Infrastructure • Distributed Systems</strong>
-</p>
+`Java` `Go` `Python` `TypeScript` `Cloud Infrastructure` `Distributed Systems`
 
-<p>
-  📍 Luanda, Angola 🇦🇴 • Open to Remote & International Opportunities
-</p>
+📍 Luanda, Angola 🇦🇴 &nbsp;·&nbsp; Open to Remote & International Opportunities
 
-<p>
-  <a href="mailto:francemy.sebastiao@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="mailto:gelson23tg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/francemy-sebastião">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/francemy">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://gitlab.com/gelson23tg">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-francemy.sebastiao%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:francemy.sebastiao@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-francemy--sebastião-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francemy-sebastião)
+[![GitHub](https://img.shields.io/badge/GitHub-francemy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/francemy)
+[![GitLab](https://img.shields.io/badge/GitLab-gelson23tg-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/gelson23tg)
+[![Kaggle](https://img.shields.io/badge/Kaggle-francemysebastiao-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/francemysebastiao)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a Software Engineer focused on building scalable systems, cloud platforms, APIs, and enterprise solutions. 
+I build **scalable backend systems**, cloud platforms, and enterprise APIs. My work spans distributed architectures, DevOps automation, QA engineering, and database design — with a strong focus on **performance, reliability, and real-world impact**.
 
-My experience combines backend engineering, distributed architectures, DevOps practices, QA analysis, and database engineering. I enjoy solving complex technical challenges involving performance, infrastructure, reliability, automation, and system scalability.
-
-I work mainly with backend technologies such as Java, Go, Python, and TypeScript, while also designing robust database and cloud architectures for production environments.
+Primarily working in **Java, Go, Python, and TypeScript**, I design systems that hold up under load, scale with business needs, and solve complex engineering challenges end to end.
 
 ---
 
-## 🚀 Core Expertise
+## Core Expertise
 
-* ⚙️ **Architecture:** Distributed Systems & Microservices, Backend Architecture & APIs
-* ☁️ **Infrastructure:** Cloud Infrastructure & DevOps, Docker & Container Orchestration, CI/CD Pipelines & Automation
-* 🗄️ **Data & Performance:** Database Engineering & Optimization, System Reliability & Performance, Multi-Database Platforms
-* 🧪 **Quality:** QA Analysis & Root Cause Investigation
-* 🏢 **Business:** Enterprise Software Development
+| Area | Details |
+|------|---------|
+| **Backend Architecture** | Distributed systems, microservices, RESTful & event-driven APIs |
+| **Cloud & DevOps** | AWS, Azure, Docker, CI/CD pipelines, container orchestration |
+| **Database Engineering** | Multi-database design, query optimization, multi-tenant platforms |
+| **QA & Reliability** | Root cause analysis, API testing, production debugging, exploratory testing |
+| **Enterprise Software** | ERP integration, business workflow automation, full lifecycle delivery |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
-| :--- | :--- |
-| **Languages** | `Java` `Go` `Python` `TypeScript` `JavaScript` `SQL` `C` |
-| **Backend** | `Spring Boot` `FastAPI` `NestJS` `Node.js` |
-| **Frontend** | `Next.js` `Angular` `React` |
-| **Databases** | `PostgreSQL` `SQL Server` `MySQL` `MariaDB` `Oracle` `MongoDB` `Redis` |
-| **DevOps & Cloud**| `Docker` `Azure` `AWS` `Linux` `CI/CD` `Nginx` `Traefik` |
-| **QA & Testing** | `Postman` `API Testing` `Exploratory Testing` `Mobile Testing` |
+|----------|-------------|
+| **Languages** | Java · Go · Python · TypeScript · JavaScript · SQL · C |
+| **Backend** | Spring Boot · FastAPI · NestJS · Node.js |
+| **Frontend** | Next.js · Angular · React |
+| **Databases** | PostgreSQL · SQL Server · MySQL · MariaDB · Oracle · MongoDB · Redis |
+| **DevOps & Cloud** | Docker · AWS · Azure · Linux · Nginx · Traefik · CI/CD |
+| **QA & Testing** | Postman · API Testing · Exploratory Testing · Mobile Testing |
 
 ---
 
-## 🌍 Featured Project
+## Featured Project
 
 ### ☁️ [MUSTAINFO — Cloud Infrastructure Platform](https://francys.mustainfo.org/)
-*Cloud platform focused on storage services, database hosting, infrastructure orchestration, and centralized management.*
 
-**✨ Highlights:**
-* Multi-database management platform & Cloud storage integration
-* Infrastructure isolation with Automated backups & restore systems
-* Dockerized architecture & Multi-tenant backend
-* API-first architecture
+> Cloud platform delivering storage services, database hosting, infrastructure orchestration, and centralized management — built API-first with multi-tenant support.
 
-**🔧 Technologies:** `FastAPI` • `Docker` • `PostgreSQL` • `Redis` • `MinIO` • `Traefik`
+**Highlights:**
+- Multi-database management & cloud storage integration
+- Infrastructure isolation with automated backups & restore systems
+- Dockerized multi-tenant backend with centralized dashboard
+- API-first architecture built for scale
 
----
-
-## 💼 Professional Experience
-
-### 🏢 Systems Analyst & QA Engineer — Okayula Tech
-* Designed scalable APIs and distributed backend systems using **Spring Boot**.
-* Performed production debugging and root cause analysis.
-* Conducted QA validation and exploratory testing.
-* Improved **SQL Server** query performance and system stability.
-* Worked with **Azure** infrastructure and CI/CD pipelines.
-
-### 🏢 Full Stack Developer — TISTECH
-* Developed enterprise web systems using **Node.js** and **Next.js**.
-* Integrated ERP modules and business workflows.
-* Validated APIs and business rules using **Postman**.
-* Designed relational database structures and integrations.
+**Stack:** `FastAPI` · `Docker` · `PostgreSQL` · `Redis` · `MinIO` · `Traefik`
 
 ---
 
-## 🎓 Education
+## Professional Experience
 
-* **Engenharia Informática** — *Universidade Católica de Angola*
+### Systems Analyst & QA Engineer — Okayula Tech
 
----
+- Designed scalable APIs and distributed backend systems using **Spring Boot**
+- Performed production debugging and root cause analysis on critical systems
+- Improved **SQL Server** query performance, reducing latency across key workflows
+- Conducted QA validation, exploratory testing, and release gatekeeping
+- Managed **Azure** infrastructure and maintained CI/CD pipelines
 
----
+### Full Stack Developer — TISTECH
 
-## 📜 Licenses & Certifications
-
-### 🤖 Artificial Intelligence & Innovation
-* **AI for Research and Insights** — Google (Mar 2026) | `ID: 9LMVWR9M96S3`
-* **AI for Brainstorming and Planning** — Google (Mar 2026) | `ID: 1GCVRNOJ3TW9`
-* **AI Fundamentals** — Google (Feb 2026) | `ID: VIS256JZVWDL`
-
-### 📊 Data Science & Analytics (Google/Coursera)
-* **Google Advanced Data Analytics Capstone** (Dec 2025) | `ID: MWT3WEBFA40X`
-* **Google Data Analytics Capstone: Complete a Case Study** (Dec 2025) | `ID: IIQSEB5Y6BNC`
-* **Foundations of Data Science** (Dec 2025) | `ID: U7M5B1RCSU7I`
-* **Get Started with Python** (Dec 2025) | `ID: GNF9ST0G1CD5`
-* **Data Analysis with R Programming** (Dec 2025) | `ID: PR6KKPNM6ZF1`
-* **Share Data Through the Art of Visualization** (Dec 2025) | `ID: FVI46MZMFTGG`
-* **Analyze Data to Answer Questions** (Dec 2025) | `ID: OT9K2TI9A2CV`
-* **Process Data from Dirty to Clean** (Dec 2025) | `ID: ZN708GTKDTHX`
-* **Prepare Data for Exploration** (Dec 2025) | `ID: 6NQDQPPJI1M1`
-* **Ask Questions to Make Data-Driven Decisions** (Dec 2025) | `ID: HS8Y3BNN3UO4`
-* **Foundations: Data, Data, Everywhere** (Dec 2025) | `ID: 4JHYRT32N50D`
-
-### ☁️ Cloud & Infrastructure
-* **Fundamentos de Computação em Nuvem: Noções Básicas** — LinkedIn (Jan 2026)
-* **Arquitetura de Nuvem com AWS: Formação Básica** — LinkedIn (Dec 2025)
-* **Fundamentos de AWS (Amazon Web Services)** — LinkedIn (Dec 2025)
-
-### 💻 Software Engineering
-* **Técnicas Avançadas de Java** — LinkedIn (Dec 2025)
-* **Fundamentos de Go** — LinkedIn (Dec 2025)
-* **Fundamentos de Análise de Dados (Go & Python)** — LinkedIn (Jul 2024)
-
-### 👥 Agile, Management & Leadership
-* **Foundations of Project Management** — Google (Jan 2026) | `ID: 4RKN8FA7HWDI`
-* **As 10 Competências Essenciais para Líderes de Tecnologia** — LinkedIn (Dec 2025)
-* **Certificações Agile Scrum** — LinkedIn (Dec 2025)
-* **Scrum: Planejamento e Desenvolvimento Ágeis** — LinkedIn (Dec 2025)
+- Built enterprise web systems using **Node.js** and **Next.js**
+- Integrated ERP modules and automated business workflows
+- Designed relational database schemas and cross-system integrations
+- Validated APIs and business rules using **Postman**
 
 ---
 
+## Education
+
+🎓 **Engenharia Informática (Computer Science Engineering)**  
+Universidade Católica de Angola · Luanda, AO
+
 ---
 
-## 🧠 Areas of Interest
+## Certifications
 
-`Cloud Computing` `Distributed Architectures` `Database Engines` `Artificial Intelligence` `System Performance` `DevOps Automation` `Infrastructure Engineering` `Software Architecture`
+### Artificial Intelligence
+- **AI for Research and Insights** — Google · Mar 2026 · `9LMVWR9M96S3`
+- **AI for Brainstorming and Planning** — Google · Mar 2026 · `1GCVRNOJ3TW9`
+- **AI Fundamentals** — Google · Feb 2026 · `VIS256JZVWDL`
+
+### Data Science & Analytics
+- **Google Advanced Data Analytics Capstone** — Dec 2025 · `MWT3WEBFA40X`
+- **Google Data Analytics Certificate** — Dec 2025 · 8 courses completed
+- **Foundations of Data Science** — Dec 2025 · `U7M5B1RCSU7I`
+- **Data Analysis with R Programming** — Dec 2025 · `PR6KKPNM6ZF1`
+- **Get Started with Python** — Dec 2025 · `GNF9ST0G1CD5`
+
+### Cloud & Infrastructure
+- **AWS Cloud Architecture: Basic Training** — LinkedIn · Dec 2025
+- **AWS Fundamentals** — LinkedIn · Dec 2025
+- **Cloud Computing Fundamentals** — LinkedIn · Jan 2026
+
+### Software Engineering
+- **Advanced Java Techniques** — LinkedIn · Dec 2025
+- **Go Fundamentals** — LinkedIn · Dec 2025
+- **Data Analysis Fundamentals (Go & Python)** — LinkedIn · Jul 2024
+
+### Agile & Leadership
+- **Foundations of Project Management** — Google · Jan 2026 · `4RKN8FA7HWDI`
+- **Agile Scrum Certification** — LinkedIn · Dec 2025
+- **Essential Tech Leadership Competencies** — LinkedIn · Dec 2025
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francemy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francemy&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=francemy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=818cf8&text_color=aaaaaa&icon_color=6366f1" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francemy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=818cf8&text_color=aaaaaa" />
 </div>
 
 ---
 
+## Areas of Interest
+
+`Cloud Computing` · `Distributed Architectures` · `Database Engines` · `Artificial Intelligence` · `System Performance` · `DevOps Automation` · `Infrastructure Engineering` · `Software Architecture`
+
 ---
 
-## 🌐 Connect With Me
+## Connect
+
+[![YouTube](https://img.shields.io/badge/YouTube-TGDev2024-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@TGDev2024)
+[![X / Twitter](https://img.shields.io/badge/X-TgGelson-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/TgGelson)
+[![Discord](https://img.shields.io/badge/Discord-FrancysSebastiao-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/FrancysSebastiao)
+
+---
 
 <div align="center">
-  <a href="https://www.youtube.com/@TGDev2024">
-    <img src="[https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://www.youtube.com/@TGDev2024)" alt="YouTube" />
-  </a>
-  <a href="https://x.com/TgGelson">
-    <img src="[https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white](https://x.com/TgGelson)" alt="X" />
-  </a>
-  <a href="https://discord.gg/FrancysSebastiao">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.kaggle.com/francemysebastio">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-</div>
-
-*(Não se esqueça de substituir os links `teu_canal`, `teu_user`, etc., pelos seus links reais).*
-
-<div align="center">
-  <h3><em>“Building scalable systems with performance, reliability and engineering precision.”</em></h3>
+  <sub><em>"Building scalable systems with performance, reliability and engineering precision."</em></sub>
 </div>
